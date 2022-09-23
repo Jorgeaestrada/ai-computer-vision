@@ -1,2 +1,4 @@
-images/
+face-recognition/images/*
+face-recognition/labels.pickle
+face-recognition/trainner.yml
 .vscode/
